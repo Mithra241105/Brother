@@ -1,0 +1,16 @@
+body {
+    background: #f0f8ff;
+    font-family: Arial, sans-serif;
+}
+.wish-box {
+    margin: 100px auto;
+    padding: 40px;
+    background: #fff;
+    border-radius: 10px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    max-width: 500px;
+    text-align: center;
+}
+.wish-box h1 {
+    color: #2e8b57;
+}
